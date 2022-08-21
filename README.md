@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Learning Goal 1
+- Create unit tests in Angular.
 
 ## Introduction
 
